@@ -22,7 +22,7 @@ This project aims to provide pdf tooling that free of charge to users. The scrip
     ```
 
 ## Merging PDFs
-
+The merge_pdf script can merge up to 6 pdfs at a time. The order of the pdfs merged depends on the order you call each file. 
 ### Usage
 
 #### Using `merge_pdf.sh`
